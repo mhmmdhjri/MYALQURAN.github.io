@@ -1,0 +1,26 @@
+.card{
+    box-shadow: 0 0 1rem black;
+}
+.card-surat{
+    cursor: pointer;
+    transition: .5s;
+}
+.card-surat:hover{
+    background: #32a869;
+}
+.card-body:hover{
+    background: #32a869;
+}
+.card-body{
+    transition: .8s;
+}
+nav{
+    position: sticky;
+    top: 0;
+}
+body{
+    background: url(https://img.freepik.com/free-vector/flat-arabic-pattern-background_79603-1826.jpg?size=626&ext=jpg&ga=GA1.1.1518270500.1698192000&semt=ais);
+}
+/*  (background 1) https://img.freepik.com/free-vector/flat-arabic-pattern-background_79603-1826.jpg?size=626&ext=jpg&ga=GA1.1.1518270500.1698192000&semt=ais */
+/* (background 2) https://i.pinimg.com/originals/77/76/cf/7776cf4e23c039b4d79fc3481f97a8d4.jpg  */
+/* (background 3) https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf3KxOvNKQ3sxIJjVozijtj4GjunVScMkhpA&usqp=CAU */
